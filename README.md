@@ -1,4 +1,5 @@
 # conflict__practice
+<<<<<<< HEAD
 
 >clone과 conflict 연습
 
@@ -9,3 +10,4 @@ git clone URL
 
 2. 로컬에서 commit 을 하나 더 쌓은 다음 remote로 push한다.
 3. 리모트에서 commit을 하나 더 쌓은 다음, 로컬에서 push한다.
+
