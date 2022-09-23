@@ -11,3 +11,6 @@ git clone URL
 
 ---
 push
+
+---
+pull
